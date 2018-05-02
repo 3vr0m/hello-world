@@ -1,2 +1,4 @@
 # hello-world
-1 repository
+
+Hello people!
+this is a test.
